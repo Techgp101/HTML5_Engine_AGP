@@ -1,0 +1,10 @@
+#container {
+    position: relative;
+    overflow: hidden;
+    box-sizing: border-box;
+    margin: 20px auto;
+}
+
+canvas {
+    margin: 0;
+}
